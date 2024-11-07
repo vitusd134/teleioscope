@@ -28,8 +28,8 @@ body, html {
 }
 
 .dg {
-  //width: 300px;
-  z-index: 10;
+  // width: 300px;
+  z-index : 10;
 }
 
 button {
